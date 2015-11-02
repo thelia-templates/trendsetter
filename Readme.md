@@ -23,6 +23,6 @@ You have 2 choices for installing this template :
 
 ## Screenshots
 
-![Trendsetter home](assets/src/screenshots/home.jpg)
+![Trendsetter home](assets/screenshots/home.png)
 
-![Trendsetter product](assets/src/screenshots/product.jpg)
+![Trendsetter product](assets/screenshots/product.png)
